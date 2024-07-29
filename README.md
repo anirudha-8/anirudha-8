@@ -21,7 +21,7 @@ I’m currently working on a few exciting projects related to web development. C
 ## How to Connect
 
 Feel free to reach out or follow me on:
-- [LinkedIn](https://www.linkedin.com/in/anirudha-bele-5568a0248/) 🌟
+- [LinkedIn](https://www.linkedin.com/in/anirudha-bele-394677320/) 🌟
 - [Twitter](your-twitter-handle) 🐦
 - [Email](beleanirudha8@gmail.com) 📧
 
