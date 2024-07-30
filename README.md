@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about web development and enjoy wor
 
 ## Skills & Technologies
 
-- **Front-End**: HTML, CSS, JavaScript, React, Angular 🎨
+- **Front-End**: HTML, CSS, JavaScript, React, SASS, Tailwind 🎨
 - **Back-End**: Node.js, Express, MongoDB, SQL 🛠️
 - **Tools**: Git, GitHub, Docker, etc. 🔧
 
