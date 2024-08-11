@@ -1,4 +1,9 @@
-# Hi there! I'm Anirudha Bele 👋
+<table>
+  <tr>
+    <td><h1>Hi there! I'm Anirudha</h1></td>
+    <td><img src="./Ayanokoji.png" alt="Ayonokoji Kiyotaka" width="80" /></td>
+  </tr>
+</table>
 
 ## 🌐 Socials
 
@@ -22,8 +27,8 @@
 # 📊 GitHub Stats
 
 ![#](https://github-readme-stats.vercel.app/api?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![#](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![#](https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&hide_border=false)
+![#](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
