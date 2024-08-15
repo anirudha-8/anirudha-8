@@ -1,3 +1,4 @@
+<div align="center"
 <table>
   <tr>
     <td><h1>Hi there! I'm Anirudha</h1></td>
@@ -17,6 +18,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 # 📊 GitHub Stats
+
+</div>
 
 <p align="center">
   <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&hide_border=false">
