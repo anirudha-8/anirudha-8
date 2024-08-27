@@ -21,7 +21,9 @@
 
 </div>
 
-
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&hide_border=false">
+</p>
 
 ---
 
