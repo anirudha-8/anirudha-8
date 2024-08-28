@@ -35,4 +35,4 @@
 
 ---
 
-[![#](https://visitcount.itsvg.in/api?id=anirudha-8&&icon=0&color=0)](https://github.com/anirudha-8/anirudha-8)
+[![#](https://visitcount.itsvg.in/api?id=anirudha-8&&icon=0&color=0)](https://github.com/anirudha-8)
