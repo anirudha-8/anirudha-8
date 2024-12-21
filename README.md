@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <img width="800" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&&hide_border=false" alt="anirudha-8" />
+  <img width="800" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&hide_border=false" alt="anirudha-8" />
 </p>
 
 ---
