@@ -43,5 +43,5 @@
 ---
 
 <!-- [![#](https://visitcount.itsvg.in/api?id=anirudha-8&icon=0&color=0)](https://github.com/anirudha-8) -->
-![](https://komarev.com/ghpvc/?username=anirudha-8&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=anirudha-8&style=for-the-badge&base=1000)
 
