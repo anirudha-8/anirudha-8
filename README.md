@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img width="600" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&hide_border=false" alt="Anirudha Bele GitHub Streak Details" />
+  <img width="600" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=highcontrast&hide_border=false" alt="Anirudha Bele GitHub Streak Details" />
   <!-- <img width="600" height="220" align="center" src="https://nirzak-streak-stats.vercel.app/?user=anirudha-8&theme=dark&hide_border=false" alt="Anirudha Bele GitHub Streak Details" /> -->
   <!-- <img width="600" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha-8&theme=dark&hide_border=false" alt="Anirudha Bele GitHub Streak Details" /> -->
 </p>
@@ -34,11 +34,11 @@
 <br />
 
 <p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=anirudha-8&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false">
   <!-- <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false"> -->
   <br />
   <br />
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-8&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   <!-- <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"> -->
 </p>
 
